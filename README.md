@@ -1,2 +1,2 @@
 # VideoConversionHelper
-script for video conversion automatisation
+script for video conversion automatization
